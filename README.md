@@ -30,11 +30,17 @@ cluster of text from the included Manifest.txt to your own Manifest.txt.
 3) Open Manifest.txt with your favorite text editor. Scroll to the bottom. Then add the following:
 
 Name: Miss_Minutes_128x64
+
 Min butthurt: 0
+
 Max butthurt: 12
+
 Min level: 1
+
 Max level: 3
+
 Weight: 8
+
 
 4) Note that the WEIGHT is how often you want the animation to play. 1 is very seldom, 8 is often. If this is the ONLY animation in your list, it's the only thing that will play.
 
