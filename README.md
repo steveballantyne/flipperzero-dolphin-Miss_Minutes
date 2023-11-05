@@ -28,13 +28,13 @@ cluster of text from the included Manifest.txt to your own Manifest.txt.
 1) Open qflipper and browse to: SD Card > dolphin.
 2) Right-click "Manifest.txt" and Download it.
 3) Open Manifest.txt with your favorite text editor. Scroll to the bottom. Then add the following:
-<br />
+
 Name: Miss_Minutes_128x64<br />
 Min butthurt: 0<br />
 Max butthurt: 12<br />
 Min level: 1<br />
 Max level: 3<br />
-Weight: 8<br />
+Weight: 8
 
 4) Note that the WEIGHT is how often you want the animation to play. 1 is very seldom, 8 is often. If this is the ONLY animation in your list, it's the only thing that will play.
 
