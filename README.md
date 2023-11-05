@@ -9,7 +9,7 @@ recommend it as a primer of how animations work and how to install them.
 WATCH-ME: https://www.youtube.com/watch?v=Nq5DXhOMo5s
 
 With the Flipper's dank orange display, it seemed absolutely necessary to do a Miss Minutes animation. In fact, I am
-thinking that an entire TVA Tempad meme is in order!
+thinking that an entire TVA Tempad theme is in order!
 
 TO INSTALL:
 1) Grab all the files (you don't even have to know how Git works, just click the Code dropdown and select Download Zip.
