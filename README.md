@@ -30,15 +30,10 @@ cluster of text from the included Manifest.txt to your own Manifest.txt.
 3) Open Manifest.txt with your favorite text editor. Scroll to the bottom. Then add the following:
 
 Name: Miss_Minutes_128x64
-
 Min butthurt: 0
-
 Max butthurt: 12
-
 Min level: 1
-
 Max level: 3
-
 Weight: 8
 
 
